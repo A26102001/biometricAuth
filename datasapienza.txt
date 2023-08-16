@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/mahdieizadpanah/sapienza-university-mobile-palmprint-databasesmpd
+https://www.kaggle.com/datasets/andrewmvd/drive-digital-retinal-images-for-vessel-extraction
